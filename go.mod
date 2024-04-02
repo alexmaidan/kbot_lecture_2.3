@@ -1,4 +1,4 @@
-module github.com/alexmaidan/kbot
+module github.com/alexmaidan/kbot_lecture_2.3
 
 go 1.22.1
 
